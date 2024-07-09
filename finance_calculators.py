@@ -1,4 +1,4 @@
-#Reviewed By Toufique Mahlangu on 09-July-2024
+#Reviewed
 import math
 def main():
     print("Welcome to the Financial(bond and investment) Calculator program!")
